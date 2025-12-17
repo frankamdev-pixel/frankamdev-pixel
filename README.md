@@ -1,25 +1,9 @@
 <img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" width="100%" alt="Full Stack Neon Animation"/>
 
 <br/>
-<style>
-  .name{
-  color: 'red';
-  }
-</style>
+
 <div align="center">
-
-  <h1 class='name'>
-   
-      Hey, je suis Frank Kamgang 👋
-    </span>
-  </h1>
-
-  <style>
-    @keyframes pulse {
-      0%, 100% { text-shadow: 0 0 10px #a855f7; }
-      50% { text-shadow: 0 0 30px #06b6d4, 0 0 40px #3b82f6; }
-    }
-  </style>
+  <img src="name-animation.svg" alt="Hey, je suis Frank Kamgang 👋"/>
 
   <p>
     <strong>Développeur Full-Stack passionné</strong> • React & Laravel enthusiast<br/>
@@ -82,11 +66,11 @@
 
 <div align="center">
 
-| Projet | Description | Techno | Lien |
-|-------|-------------|--------|------|
-| Plateforme e-learning | Cours, quizzes, forums – tout en React + Laravel | React, Tailwind, Laravel, Inertia | 🔒 Privé (sur demande) |
-| Dashboard entreprise | Gestion d'environnements IT | React, Laravel, Chart.js | 🔒 Privé |
-| Portfolio personnel | Design pixel-perfect & animations | React, Framer Motion, Tailwind | [Voir](https://frankamdev.com) |
+| Projet                  | Description                              | Techno                          | Lien                  |
+|-------------------------|------------------------------------------|---------------------------------|-----------------------|
+| Plateforme e-learning   | Cours, quizzes, forums                   | React, Tailwind, Laravel, Inertia | 🔒 Privé (sur demande) |
+| Dashboard entreprise    | Gestion d'environnements IT              | React, Laravel, Chart.js        | 🔒 Privé               |
+| Portfolio personnel     | Design pixel-perfect & animations        | React, Framer Motion, Tailwind  | [Voir](https://frankamdev.com) |
 
 </div>
 
@@ -108,5 +92,5 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/LmNwrL3TFsPRvnMuUg/giphy.gif" width="300" alt="Coding"/>
-  <p><i>Code. Design. Repeat.</i>Frank Kamgang</p>
+  <p><i>Code. Design. Repeat.</i> — Frank Kamgang</p>
 </div>
