@@ -82,7 +82,7 @@
 <br/>
 
 <div align="center">
-  <img src="name-animation.svg" alt="About Me"/>
+  <img src="secondly.svg" alt="Seconfly"/>
 
   <p>
     <strong>Full-Stack Developer</strong> • React & Laravel enthusiast<br/>
