@@ -81,6 +81,28 @@
 
 <br/>
 
+<div align="center">
+  <img src="name-animation.svg" alt="About Me"/>
+
+  <p>
+    <strong>Full-Stack Developer</strong> • React & Laravel enthusiast<br/>
+    Specialized in modern, fluid, and pixel-perfect interfaces.
+  </p>
+  
+  <p>
+    I turn ideas into high-performance, beautiful web applications.<br/>
+    Clean backend code (Laravel) → Immersive frontend & design (React + Tailwind).<br/>
+    Mastered UX/UI with Figma, Photoshop, Illustrator, and XD.
+  </p>
+
+  ### 🌍 About Me
+  - Bilingual: Fluent in **English** and **French**  
+  - Currently learning **German** – driven by a passion for lifelong learning  
+  - This is my secondary GitHub account (primary account was suspended)
+
+  <img src="https://komarev.com/ghpvc/?username=frankamdev-pixel&color=a855f7&style=flat-square&label=Profile+views" alt="Profile views"/>
+</div>
+<br/>
 ## 📊 GitHub Stats
 
 <div align="center">
