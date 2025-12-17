@@ -3,7 +3,9 @@
 <br/>
 
 <div align="center">
+  
   <img src="name-animation.svg" alt="Hey, je suis Frank Kamgang 👋"/>
+  
 
   <p>
     <strong>Développeur Full-Stack passionné</strong> • React & Laravel enthusiast<br/>
