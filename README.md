@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  <img src="name-animation.svg" alt="Hey, je suis Frank Kamgang 👋"/>
+  <img src="name-animation.svg" alt="Hey👋, je suis Frank Kamgang"/>
   
 
   <p>
@@ -122,7 +122,7 @@
 |-------------------------|------------------------------------------|---------------------------------|-----------------------|
 | Plateforme e-learning   | Cours, quizzes, forums                   | React, Tailwind, Laravel, Inertia | 🔒 Privé (sur demande) |
 | Dashboard entreprise    | Gestion d'environnements IT              | React, Laravel, Chart.js        | 🔒 Privé               |
-| Portfolio personnel     | Design pixel-perfect & animations        | React, Framer Motion, Tailwind  | [Voir](https://portefeuil.vercel.app/) |
+| Portfolio personnel     | Design pixel-perfect & animations        | React, Framer Motion, Tailwind  | [ Cliquez pour voir](https://portefeuil.vercel.app/) |
 
 </div>
 
