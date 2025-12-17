@@ -1,14 +1,15 @@
 <img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" width="100%" alt="Full Stack Neon Animation"/>
 
 <br/>
-
+<style>
+  .name{
+  color: 'red';
+  }
+</style>
 <div align="center">
 
-  <h1>
-    <span style="background: linear-gradient(90deg, #a855f7, #3b82f6, #06b6d4);
-               -webkit-background-clip: text;
-               -webkit-text-fill-color: transparent;
-               animation: pulse 3s ease-in-out infinite;">
+  <h1 class='name'>
+   
       Hey, je suis Frank Kamgang 👋
     </span>
   </h1>
@@ -107,5 +108,5 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/LmNwrL3TFsPRvnMuUg/giphy.gif" width="300" alt="Coding"/>
-  <p><i>Code. Design. Repeat.</i></p>
+  <p><i>Code. Design. Repeat.</i>Frank Kamgang</p>
 </div>
