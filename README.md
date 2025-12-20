@@ -122,7 +122,7 @@
 |-------------------------|------------------------------------------|---------------------------------|-----------------------|
 | Plateforme e-learning   | Cours, quizzes, forums                   | React, Tailwind, Laravel, Inertia | 🔒 Privé (sur demande) |
 | Dashboard entreprise    | Gestion d'environnements IT              | React, Laravel, Chart.js        | 🔒 Privé               |
-| Portfolio personnel     | Design pixel-perfect & animations        | React, Framer Motion, Tailwind  | [Cliquez pour voir]([https://portefeuil.vercel.app/](https://portfolioo-beta-wine.vercel.app/))|
+| Portfolio personnel     | Design pixel-perfect & animations        | React, Framer Motion, Tailwind  | [Cliquez pour voir]([https://portfolioo-beta-wine.vercel.app/)])|
 
 </div>
 
