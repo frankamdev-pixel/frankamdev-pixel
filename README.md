@@ -6,7 +6,6 @@
   
   <img src="name-animation.svg" alt="Hey👋, je suis Frank Kamgang"/>
   
-
   <p>
     <strong>Développeur Full-Stack passionné</strong> • React & Laravel enthusiast<br/>
     Spécialisé dans la création d'interfaces modernes, fluides et pixel-perfect.
